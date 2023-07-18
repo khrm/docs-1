@@ -25,7 +25,8 @@ engineers working on the project.
 
 == Chains xref:chains/index.adoc[➡]c
 
-- xref:chains/hashicorp-integration-with-chains.adoc
+- xref:chains/hashicorp-integration-with-chains.adoc[Hashicorp Integration with Tekton Chains
+]
 
 == Triggers xref:triggers/index.adoc[➡]
 
